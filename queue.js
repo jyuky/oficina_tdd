@@ -11,7 +11,7 @@ class Queue {
 
     return this.elements.length;
   }
-  
+
   //- add(item) Deve ser capaz de adicionar um item na fila
   add(item) {
     return this.elements.push(item);
